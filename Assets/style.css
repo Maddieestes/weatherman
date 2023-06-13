@@ -1,0 +1,66 @@
+/* controls all classes,ids and elements unless more spcifically indicated  */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: rgb(117, 172, 146);
+}
+
+
+header{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: rgb(164, 19, 221);;
+  font-size: 40px;
+  float: right;
+
+  margin-bottom: 20px;
+  font-family: 'Ewert', cursive;
+}
+
+  /*info section title text*/
+h2 {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 25px;
+  text-decoration: underline;
+  text-align: center;
+  color: rgb(153, 93, 177);
+  align-items: center;
+}
+h1 {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: #131111;
+  font-size: 25px;
+  margin-bottom: 20px;
+  font-family: 'Ewert', cursive;
+}
+
+
+input,
+select,
+option,
+optgroup,
+textarea,
+button,
+pre,
+code {
+  font-size: 20px;
+  font-family: inherit;
+}
+
+
+  #futureWeatherTemp {
+      color: rgb(148, 40, 112);
+  }
+
+  /* search container */
+  .searchBox {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+    display:flex;
+    flex-direction: row;
+    position: absolute;
+    text-align: center;
+    align-items: center;
+    margin-top: 50px;
+   margin-left: 100px;
+   color:black;
+  } 
