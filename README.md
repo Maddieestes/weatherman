@@ -8,12 +8,8 @@ Taking the time to write this project really taught me a lot. I learned the wron
 Challenges
 Istruggled to start this project and being able to have a functional final product. I decided to start with some basic HTML and figure out the API calls then the rest started to work itself out as I was recieving the data and understanding how it all worked.
 
-
-
 Screenshot:
-
-
-![Web capture_15-6-2023_184224_](https://github.com/Maddieestes/weatherman/assets/129248476/e53a25a6-5beb-4d6e-a800-323a74beb923)
+![Web capture_15-6-2023_184224_](https://github.com/Maddieestes/weatherman/assets/129248476/e49d6bc8-2942-4f6c-96b0-42c24d33b9fb)
 
 
 
